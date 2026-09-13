@@ -1,4 +1,4 @@
-# Active Directory Attack and Defence Lab 🏛️
+# Active Directory Attack and Defence Lab 
 
 ## Overview
 A hands-on lab documenting Active Directory 
